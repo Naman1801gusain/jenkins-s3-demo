@@ -3,7 +3,7 @@ import os
 import mimetypes
 
 # --- CONFIGURATION ---
-BUCKET_NAME = "jenkins-naman-website-2025"  # <--- YOUR BUCKET
+BUCKET_NAME = "jenkins-naman-website-2025"  
 S3_REGION = "ap-south-1"
 
 def deploy():
