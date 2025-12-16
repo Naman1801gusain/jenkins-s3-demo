@@ -2,7 +2,7 @@ import boto3
 import os
 
 # --- CONFIGURATION ---
-BUCKET_NAME = "jenkins-deployment-naman-01"  # <--- REPLACE WITH YOUR BUCKET NAME
+BUCKET_NAME = "jenkins-naman-website-2025"  # <--- REPLACE WITH YOUR BUCKET NAME
 FILE_TO_UPLOAD = "index.html"
 S3_FILE_NAME = "index.html"
 
